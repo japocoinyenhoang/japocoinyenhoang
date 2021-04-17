@@ -7,11 +7,26 @@
 ```js
 const Yen = {
   pronouns: "she" | "her",
-  Web: [Javascript, React, Typescript, HTML, CSS, NodeJS, Express],
-  Mobile: [ React Native, Kotlin],
-  tools: [Slack, Trello, Github, Jira, Confluence],
-
- challenge: " 💪🏼 learning **kotlin**, **IOS** and **react native**"
+  code: [Javascript, Typescript, HTML, CSS, CSharp, Kotlin, Swift],
+  technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Sass", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Jest", "Cypress"]
+      },
+      databases: ["MongoDB", "SQLServer"],
+      mobile: {
+         in-progress: ["Android", "IOS", "React Native"]   
+      },
+   },
+ tools: [Slack, Trello, Github, Jira, Confluence],
+ currentOccupation: ["studing and open for job opportunities"],
+ challenge: " 💪🏼 I'm working towards being able to develop mobile apps. "
+ 
 }
 ```
 
@@ -26,6 +41,18 @@ const Yen = {
 [![Linkedin: Yen Hoang](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
 
 [![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+  <a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
+</a>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
+</p>
+
 <!--
 **japocoinyenhoang/japocoinyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
