@@ -4,7 +4,7 @@
 
 [![Twitter: JapocoinYH](https://img.shields.io/twitter/follow/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
 [![Linkedin: yenhoangchu](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)](https://www.linkedin.com/in/yenhoangchu/)
-[![GitHub japocoinyenhoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
+[![GitHub japocoinyenhoang](https://github.com/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
 
 <p align="center">
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
