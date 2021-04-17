@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Yen Hoang <img src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="50">
-<img align="left" src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="230">
-###  I'm a Front-end Developer
+<img align="right" src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="230">
+### I'm a Front-end Developer
 
 ### A little more about me...  
 
@@ -35,13 +35,6 @@ const Yen = {
 
 ![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=japocoinyenhoang&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japocoinyenhoang&layout=compact&theme=buefy)](https://github.com/japocoinyenhoang/github-readme-stats)
 
-
-[![Twitter: Yen Hoang](https://img.shields.io/twitter/follow/https://twitter.com/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
-
-[![Linkedin: Yen Hoang](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
-
-[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
@@ -52,6 +45,13 @@ const Yen = {
    <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
 </a>
 </p>
+
+[![Twitter: Yen Hoang](https://img.shields.io/twitter/follow/https://twitter.com/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
+
+[![Linkedin: Yen Hoang](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
+
+[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
+
 
 <!--
 **japocoinyenhoang/japocoinyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
