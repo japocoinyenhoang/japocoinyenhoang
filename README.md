@@ -7,6 +7,8 @@
 <!--<a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>-->	    
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
+</p><br>
+<p align="center">
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p><br>
@@ -55,7 +57,7 @@ const Yen = {
 </p>
 
 [![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follows&style=social)](https://github.com/japocoinyenhoang)
-[![GitHub Yen Hoang](https://ikomarev.com/ghpvc/?username=japocoinyenhoang)](https://github.com/japocoinyenhoang)
+[![GitHub Yen Hoang](https://komarev.com/ghpvc/?username=japocoinyenhoang)](https://github.com/japocoinyenhoang)
 
 <!--
 **japocoinyenhoang/japocoinyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
