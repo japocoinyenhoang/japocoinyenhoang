@@ -45,8 +45,8 @@ const Yen = {
 [![Linkedin](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
 </p>
 
-[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
-[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
+[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follows&style=social)](https://github.com/japocoinyenhoang)
+[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=profileviews&style=social)](https://github.com/japocoinyenhoang)
 <a href="https://github.com/iCharlesZ">
   <img src="https://img.shields.io/github/followers/iCharlesZ">
 </a>
