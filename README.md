@@ -3,7 +3,7 @@
 ### I'm a Front-end Developer
 
 [![Twitter: JapocoinYH](https://img.shields.io/twitter/follow/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
-[![Linkedin: yenhoangchu](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)](https://www.linkedin.com/in/yenhoangchu/)
+[![Linkedin: yenhoangchu](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)](https://www.linkedin.com/in/yenhoangchu/)
 
 <p align="center">
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
