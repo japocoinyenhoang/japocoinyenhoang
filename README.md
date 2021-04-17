@@ -1,9 +1,10 @@
-### Hi 👋 I'm Yen Hoang <img align="left" src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="80"> 
+### Hi 👋 I'm Yen Hoang <img src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="50">
+<img align="right" src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="230">
 ### I'm a Front-end Developer
 
 [![Twitter: JapocoinYH](https://img.shields.io/twitter/follow/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
 [![Linkedin: yenhoangchu](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)](https://www.linkedin.com/in/yenhoangchu/)
-[![CodeSandbox: japocoinyenhoang](https://img.shields.io/codesandbox/https://codesandbox.io/u/japocoinyenhoang?style=social)](https://codesandbox.io/u/japocoinyenhoang)
+![YenHoang]CodeSandbox(https://codesandbox.io/u/japocoinyenhoang)
 
 <p align="center">
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
@@ -17,7 +18,6 @@
 </p>
 
 ### A little more about me...  
-<img align="right" src="https://user-images.githubusercontent.com/44621616/115124892-2b5fbb80-9fc5-11eb-9a45-afaafc05e916.jpeg" width="200">
 
 ```js
 const Yen = {
