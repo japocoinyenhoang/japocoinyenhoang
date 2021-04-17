@@ -44,19 +44,16 @@ const Yen = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=japocoinyenhoang&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japocoinyenhoang&layout=compact&theme=buefy)](https://github.com/japocoinyenhoang/github-readme-stats)
-
+<p align ="center">
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </p>
 
-<p align="center">
-[![Twitter: JapocoinYH](https://img.shields.io/twitter/follow/https://twitter.com/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
-[![Linkedin: yenhoangchu](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
-</p>
 
 [![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follows&style=social)](https://github.com/japocoinyenhoang)
 [![GitHub Yen Hoang](https://komarev.com/ghpvc/?username=japocoinyenhoang)](https://github.com/japocoinyenhoang)
