@@ -46,7 +46,7 @@ const Yen = {
 </p>
 
 [![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
-[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social](https://github.com/japocoinyenhoang)
+[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
 <a href="https://github.com/iCharlesZ">
   <img src="https://img.shields.io/github/followers/iCharlesZ">
 </a>
