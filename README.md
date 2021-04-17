@@ -15,7 +15,7 @@
 <a href="https://github.com/japocoinyenhoang"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
 
-### A little more about me...  <img align="right" src="![panda](https://user-images.githubusercontent.com/44621616/115125371-f86af700-9fc7-11eb-9a15-0aef893e5654.jpeg)" width="200">
+### A little more about me...  <img align="right" src="https://user-images.githubusercontent.com/44621616/115125371-f86af700-9fc7-11eb-9a15-0aef893e5654.jpeg" width="200">
 
 ```js
 const Yen = {
