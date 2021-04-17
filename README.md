@@ -38,21 +38,21 @@ const Yen = {
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
-  <a href="https://github.com/iCharlesZ">
+</p>
+
+<p align="center">
+[![Twitter](https://img.shields.io/twitter/follow/https://twitter.com/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
+
+[![Linkedin](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
+</>
+[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
+[![GitHub Yen Hoang](https://komarev.com/ghpvc/?username=?label=follow&style=social)](https://github.com/japocoinyenhoang)
+<a href="https://github.com/iCharlesZ">
   <img src="https://img.shields.io/github/followers/iCharlesZ">
 </a>
 <a href="https://github.com/iCharlesZ">
    <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
 </a>
-</p>
-
-[![Twitter: Yen Hoang](https://img.shields.io/twitter/follow/https://twitter.com/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
-
-[![Linkedin: Yen Hoang](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
-
-[![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
-
-
 <!--
 **japocoinyenhoang/japocoinyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
