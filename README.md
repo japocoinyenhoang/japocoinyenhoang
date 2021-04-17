@@ -16,7 +16,8 @@
 </p>
 
 ### A little more about me...  
-<img align="right" src="https://user-images.githubusercontent.com/44621616/115124892-2b5fbb80-9fc5-11eb-9a45-afaafc05e916.jpeg" width="230">
+<img align="right" src="https://user-images.githubusercontent.com/44621616/115124892-2b5fbb80-9fc5-11eb-9a45-afaafc05e916.jpeg" width="200">
+
 ```js
 const Yen = {
   pronouns: "she" | "her",
