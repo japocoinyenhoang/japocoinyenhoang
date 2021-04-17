@@ -1,5 +1,6 @@
-### Hi 👋 I'm Yen Hoang <img src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="50">
-<img align="right" src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="230">
+
+### Hi 👋 I'm Yen Hoang <img src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="80">
+<img align="right" src="https://user-images.githubusercontent.com/44621616/115124892-2b5fbb80-9fc5-11eb-9a45-afaafc05e916.jpeg" width="230">
 ### I'm a Front-end Developer
 
 [![Twitter: JapocoinYH](https://img.shields.io/twitter/follow/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
