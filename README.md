@@ -37,7 +37,7 @@ const Yen = {
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ const Yen = {
 </p>
 
 [![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follows&style=social)](https://github.com/japocoinyenhoang)
-[![GitHub Yen Hoang](https://ikomarev.com/ghpvc/?username=japocoinyenhoang?label=profileviews&style=social)](https://github.com/japocoinyenhoang)
+[![GitHub Yen Hoang](https://ikomarev.com/ghpvc/?username=japocoinyenhoang)](https://github.com/japocoinyenhoang)
 
 <!--
 **japocoinyenhoang/japocoinyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
