@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Yen Hoang <img src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="50">
-<img align="src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="230">
+<img align="left" src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" width="230">
 ###  I'm a Front-end Developer
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```js
 const Yen = {
@@ -22,7 +22,9 @@ const Yen = {
 
 
 [![Twitter: Yen Hoang](https://img.shields.io/twitter/follow/https://twitter.com/JapocoinYH?style=social)](https://twitter.com/JapocoinYH)
+
 [![Linkedin: Yen Hoang](https://img.shields.io/badge/-yenhoangchu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenhoangchu/)]https://www.linkedin.com/in/yenhoangchu/)
+
 [![GitHub Yen Hoang](https://img.shields.io/github/followers/japocoinyenhoang?label=follow&style=social)](https://github.com/japocoinyenhoang)
 <!--
 **japocoinyenhoang/japocoinyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
