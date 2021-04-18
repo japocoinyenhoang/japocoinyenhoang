@@ -20,18 +20,18 @@
 ```js
 const Yen = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, CSharp, Kotlin, Swift],
+  code: [Javascript, HTML, CSS, CSharp, Kotlin, Swift],
   technologies: {
       frontEnd: {
          js: ["React", "Redux"],
-         css: ["Sass", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Sass", "Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
          misc: ["Bash", "Jest", "Cypress"]
       },
-      databases: ["MongoDB", "SQLServer"],
+      databases: ["SQLServer"],
       mobile: {
          in-progress: ["Android", "IOS", "React Native"]   
       },
